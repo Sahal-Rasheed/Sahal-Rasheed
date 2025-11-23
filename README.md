@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hey, I'm Sahal 👋
 
-<!--
-**Sahal-Rasheed/Sahal-Rasheed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer with 2+ years of experience building backend systems and APIs.
+I enjoy designing clean architectures, solving backend challenges, and crafting efficient services.
 
-Here are some ideas to get you started:
+## 🧑‍💻 Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚙️ Backend development using **Python**, **Django**, **Django REST**, **FastAPI**
+- 🐳 Comfortable with **Docker**, **PostgreSQL**, **Selenium**, **Langchain**, **Celery**, **Redis**, **RAG & Automations**
+
+## 📫 Contact
+
+- 📧 sahalrasheed77@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/sahal-rasheed)
+
+---
+
+<p align="center"> <sub> ✨ <b>clean code</b> · <b>minimalism</b> · <b>backend architecture</b> ✨ </sub> </p>
